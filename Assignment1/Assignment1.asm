@@ -22,7 +22,7 @@ main: # start  from scratch
         # sll     $9, $8, 26
         # or      $9, $8, $9
         # sll     $8, $9, 22
-        # or	$9, $8, $9
+        # or			 $9, $8, $9
         # or      $9, $8, $9
         # sll     $9, $9, 16
         # sll     $9, $8, 10
